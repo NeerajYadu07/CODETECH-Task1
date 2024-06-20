@@ -1,3 +1,11 @@
+- Name: Neeraj Yadu
+- Company:CODTECH IT SOLUTIONS
+- ID: CT08PD736
+- Duration: 20th MAY 2024 to 20th JUNE 2024
+- Mentor: Sravani Gouni
+
+# Project Overview
+
 # Weather Now
 
 Weather Now is a web application that provides real-time weather information and a 4-day weather forecast for any city. The app is built using HTML, CSS, and JavaScript, and leverages the WeatherAPI to fetch weather data.
