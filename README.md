@@ -17,6 +17,10 @@ Weather Now is a web application that provides real-time weather information and
 - **City Search**: Allows users to search for weather information by entering a city name.
 - **Predefined Cities**: Quick access to weather information for popular cities via clickable buttons.
 
+## Screenshots
+![Screenshot 2024-06-20 164706](https://github.com/NeerajYadu07/CODTECH-Task1/assets/100270646/d7eb2e78-6c51-46c0-bfd9-4a350d747792)
+
+
 ## Technologies Used
 
 - **HTML**: Structure of the web application.
